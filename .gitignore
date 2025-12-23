@@ -1,0 +1,15 @@
+#. Binaries
+*.exe
+*.out
+*.test
+
+#. Go Build cache
+/bin/
+
+#. Editor Junk
+.vscode/
+.idea/
+
+
+#. OS Junk
+.DS_Store
